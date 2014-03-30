@@ -1,0 +1,2 @@
+module ShinchokuHelper
+end

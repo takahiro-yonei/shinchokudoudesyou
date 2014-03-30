@@ -1,0 +1,19 @@
+{
+  "name": "force",
+  "format": "1",
+  "version": "1.0.0",
+  "creator": "Sencha",
+  "summary": "Connector interface and sample Sencha Touch apps that demonstrate integration with SalesForce\u0027s Force.com API.",
+  "detailedDescription": "The connector package contains a Proxy that can be used with Sencha Touch Stores, DataViews and ListViews. The package also contains a sample app that can be easily deployed to a hosting environment (e.g. heroku) in order to host the application and provide a proxy connection to force.com. ",
+  "type": "code",
+  "signatures": [
+    {
+      "name": "Sencha",
+      "uuid": "3e8bee98-2d45-4cb4-8da7-cc17f6f4e093",
+      "created": "2014-03-12T15:54:06Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "9SjcibxXtYY\u003d",
+      "signature": "pq3Q30cxB5U2t/ilYBUhdbg7tVKRuJenViCW3w8ghh7gewsX3M0IWH/vuuKqDdhHNtxY6HBzQu83fwwKaLpe2zxNYzzvbVOOqEv9rnkAGkaiy8AvQFIp9Wm1O1VW23A9nIbMwC96WXAnbmFlzaBMms8VC6bkG7IpnnHZIx8FJtcqZ/G9MquztIk2amX7ftD28yEen3q3DBMJXn7h/OKgIdyFs+qZf4hQQMBkZ98OlDyTY18gIgWvrdhhhNK7/4dtSndqPvsJ4IXfiR1RsULxd2MxSFsNIAeMBTfUm4fccaJctCLT8P7CgZaCVRx+Io7gTUKUnDyOfQSC3dVLB63BGA\u003d\u003d"
+    }
+  ]
+}

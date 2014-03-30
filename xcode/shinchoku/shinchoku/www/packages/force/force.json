@@ -1,0 +1,13 @@
+[
+      {
+          "title": "Sencha connector for SalesForce",
+          "items": [
+              {
+                  "name": "getting_started",
+                  "url": "getting_started",
+                  "title": "Getting started",
+                  "description": "Explains how to install the connector, and how to deploy the sample apps."
+              }
+          ]
+      }
+]

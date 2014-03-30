@@ -1,0 +1,10 @@
+{
+    "remoteAccessConsumerKey": "3MVG9I1kFE5Iul2CjEY6J14vu5G0opJ6K50hACzHl_HyGNEFv96OQIhrwVeWx13r45Xr.OGHVtzOoyXGB5s5H",
+    "oauthRedirectURI": "sfdc://success",
+    "oauthScopes": ["web", "api"],
+    "isLocal": true,
+    "startPage": "index.html",
+    "errorPage": "error.html",
+    "shouldAuthenticate": true,
+    "attemptOfflineLoad": false
+}

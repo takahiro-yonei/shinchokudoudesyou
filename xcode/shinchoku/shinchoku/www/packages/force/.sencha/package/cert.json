@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2014-03-12T15:53:59Z",
+    "email": "takahiro-yonei@taodrive.com",
+    "expires": "2019-03-13T00:00:00Z",
+    "name": "Sencha",
+    "uuid": "3e8bee98-2d45-4cb4-8da7-cc17f6f4e093"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3N1emTdAh4QBWqyAqnghvQQNWhFDDADMEdy9skcMM5dX8WergFFZ0pj9G1qpHuIcz73scLYQrLG0KN5vc4/oYUlcjH3DtDK7mhWPHNOWlBEbgE+NPw+B62fOgKH8k/uJ9r9XYDhPYfGxp952h/PTin/U93gXWRtvmWKTt4zWWj0+lL8Ll3IXG6wETPYtso6W2JS508xxTPTeYE0TwanPPPkX3jscvba0DJf9WXIfZUCd4YxyF8XWHL/jvXHMKuA7cWochzfi5zl3l7chCSPgobqJFLUmkLGTc+lNi8K8CZMvMEN+g79xR0xUTTcB1Gnjv5bsc9rsSJVVCaXRQ7X8YQIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "Sencha",
+      "uuid": "3e8bee98-2d45-4cb4-8da7-cc17f6f4e093",
+      "created": "2014-03-12T15:54:00Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "nZ+5ducu1Ls\u003d",
+      "signature": "klqAnxL7JoS1H43OkZbHmA1BC483QALMcFvLdmFof4+EbMrPvrYdXal4P7n0Jr16JeEVft1gH0lGTty9BAYNr9nDQqZl36sbKBw8zy/YR+TtlQFN/T+lUNtHsqru7URxj5NZjongnkb0q3MmbXMsMtnkKXRyOhBCGYfS/A++Kt7P7Fqdhf32ftoZQtCUAbuXlCbGlxpcI9HyGRsNCNlXqZY6S1arQEXNKtKTzk1ClDVMgzWne7/OPYr1KvPPYQeIerqxOY3lRE2nL64NlgzYqcWuGeYkb4hJ21I88dO5qjzigKp28EuagvS8WGHLUP3m5b7W9EZrd5Nh0Q600OSUCw\u003d\u003d"
+    }
+  ]
+}
